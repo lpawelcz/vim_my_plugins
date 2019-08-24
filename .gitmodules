@@ -1,3 +1,21 @@
 [submodule "opt/nerdtree"]
 	path = opt/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "start/nerdcommenter"]
+	path = start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "start/vim-tmux-navigator"]
+	path = start/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "start/indentLine"]
+	path = start/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "start/vim-better-whitespace"]
+	path = start/vim-better-whitespace
+	url = https://github.com/ntpeters/vim-better-whitespace.git
+[submodule "start/auto-pairs"]
+	path = start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "start/ctrlp.vim"]
+	path = start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
