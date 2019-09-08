@@ -25,3 +25,6 @@
 [submodule "start/fzf.vim"]
 	path = start/fzf.vim
 	url = https://github.com/junegunn/fzf.vim
+[submodule "start/tagbar"]
+	path = start/tagbar
+	url = https://github.com/majutsushi/tagbar
