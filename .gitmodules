@@ -19,3 +19,6 @@
 [submodule "start/ctrlp.vim"]
 	path = start/ctrlp.vim
 	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "start/vim-airline"]
+	path = start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
