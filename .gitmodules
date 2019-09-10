@@ -28,3 +28,6 @@
 [submodule "start/tagbar"]
 	path = start/tagbar
 	url = https://github.com/majutsushi/tagbar
+[submodule "start/vim-indenty"]
+	path = start/vim-indenty
+	url = https://github.com/mglb/vim-indenty.git
